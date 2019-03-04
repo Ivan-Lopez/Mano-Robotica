@@ -13,8 +13,8 @@ En la carpeta Arduino files, los programas Arduino para controlar la mano median
 
 # Robotic Hand [EN]
 
-This is the project of Bachelor presented in the 2018-2019 schoolyear in the highschool Palas Atenea.
-The design was started in the 0.15 version of FreeCAD and then continued in th 0.16 version.
+This is the project presented in the 2018-2019 schoolyear at Palas Atenea High School.
+The design was started in the 0.15 version of FreeCAD and then continued in the 0.16 version.
 
 In the "FreeCAD-master file" directory, you can find the global design ("mano+pulgar.FCStd"), which includes all the fail attempts and tests hidden (and a poor organization due to it was my first project of its size).
 
