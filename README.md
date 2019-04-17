@@ -9,6 +9,9 @@ En la carpeta Diseños se encuentran todas las piezas en formato .stl para su di
 
 En la carpeta Arduino files, los programas Arduino para controlar la mano mediante los sensores flexibles o musculares.
 
+Algunos vídeos del funcionamiento:
+  - Sensores flexibles(Guante): https://drive.google.com/file/d/11Kb9g7OQmceqUr2YcnktoNpW7YNgNKIl/view?usp=sharing 
+  - Sensores musculares: https://drive.google.com/file/d/1Bvhk9YkBuKc7p54vJVHqvYE_SyeNIpOb/view?usp=sharing
 
 
 # Robotic Hand [EN]
@@ -21,3 +24,7 @@ In the "FreeCAD-master file" directory, you can find the global design ("mano+pu
 In the "Designs" directory, you can fin all the parts in .stl format.
 
 In the "Arduino Files", the Arduino programs to control the hand through the flex sensor or muscle sensors.
+
+Some videos:
+  - Flex sensors (glove): https://drive.google.com/file/d/11Kb9g7OQmceqUr2YcnktoNpW7YNgNKIl/view?usp=sharing 
+  - Muscle sensors: https://drive.google.com/file/d/1Bvhk9YkBuKc7p54vJVHqvYE_SyeNIpOb/view?usp=sharing
